@@ -1,1 +1,1 @@
-First github repo containing all the precoure assignments
+First github repo containing all the ALX precourse assignments
